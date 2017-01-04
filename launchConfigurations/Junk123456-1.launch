@@ -1,0 +1,16 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.ng.bluemix.net",
+      "Org": "snorthov_org",
+      "Space": "dev"
+    },
+    "Name": "Junk123456-1",
+    "Instrumentation": {
+      "host": "Junk123456-1"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
